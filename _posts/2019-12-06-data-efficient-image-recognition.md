@@ -6,7 +6,10 @@ permalink: data-efficient-image-recognition
 ---
 
 {% include image.html img="/images/2019_cpc_v2/cpc_v2.png" title="The method outperforms training from scratch for every amount of labels, even when using all labels." caption="The method outperforms training from scratch for every amount of labels, even when using all labels"  url="/images/2019_cpc_v2/cpc_v2.png" %}
+
 Beating previous state of the art in self-supervised learning for ImageNet by almost 3% absolute with less parameters (71.5% vs 68.6% top1) and outperforming outperforming purely supervised approaches in all data regimes.
+
+[**arXiv**](https://arxiv.org/abs/1905.09272){:target="_blank"}   
 
 _Olivier J. Hénaff, Aravind Srinivas, **Jeffrey De Fauw**, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord_  
 
