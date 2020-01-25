@@ -1,5 +1,5 @@
 ---
-title:  "Data-efficient image recognition with contrastive predictive Coding"
+title:  "Data-efficient image recognition with contrastive predictive coding"
 date:   2019-12-06 12:00:00
 categories: self-supervised unsupervised
 permalink: data-efficient-image-recognition
