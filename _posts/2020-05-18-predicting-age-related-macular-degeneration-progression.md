@@ -14,7 +14,7 @@ We look at the predicting the progression of an eye to the sight-threatening for
 {% include image.html img="/images/2020_nature_medicine_amd_progression/amd_progression_timeline.svg" title="Timeline overview of an example patient's progression to wet AMD together with the model's risk prediction." caption="Timeline overview of an example patient's progression to wet AMD together with the model's risk prediction."  url="/images/2020_nature_medicine_amd_progression/amd_progression_timeline.svg" %} 
 
 
-_Jason Yim*, Reena Chopra*, Terry Spitz, Jim Winkens, Annette Obika, Christopher Kelly, Harry Askham, Marko Lukic, Josef Huemer, Katrin Fasler, Gabriella Moraes, Clemens Meyer, Marc Wilson, Jonathan Dixon, Cian Hughes, Geraint Rees, Peng T. Khaw, Alan Karthikesalingam, Dominic King, Demis Hassabis, Mustafa Suleyman, Trevor Back, Joseph R. Ledsam**, Pearse A. Keane** &  **Jeffrey De Fauw****_  
+_Jason Yim*, Reena Chopra*, Terry Spitz, Jim Winkens, Annette Obika, Christopher Kelly, Harry Askham, Marko Lukic, Josef Huemer, Katrin Fasler, Gabriella Moraes, Clemens Meyer, Marc Wilson, Jonathan Dixon, Cian Hughes, Geraint Rees, Peng T. Khaw, Alan Karthikesalingam, Dominic King, Demis Hassabis, Mustafa Suleyman, Trevor Back, Joseph R. Ledsam**, Pearse A. Keane** &  ** Jeffrey De Fauw** **_  
 <sup>\* equal contribution, order determined randomly <br/>
 \** jointly supervised the work</sup>
 
