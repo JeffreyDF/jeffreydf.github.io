@@ -9,6 +9,7 @@ permalink: international-mammography-ai
 We demonstrate an AI system that can detect breast cancer better than human experts on a large, representative UK dataset and a dataset from the US, in the context of breast cancer screening programmes.  
 [**Nature article**](https://www.nature.com/articles/s41586-019-1799-6){:target="_blank"}  
 [**Open-access link**](https://rdcu.be/bZMTy){:target="_blank"}  
+[**DeepMind author's note**](https://deepmind.com/research/publications/International-evaluation-of-an-artificial-intelligence-system-to-identify-breast-cancer-in-screening-mammography){:target="_blank"}  
 
 _Scott Mayer McKinney*, Marcin Sieniek*, Varun Godbole*, Jonathan Godwin*, Natasha Antropova, Hutan Ashrafian, Trevor Back, Mary Chesus, Greg C. Corrado, Ara Darzi, Mozziyar Etemadi, Florencia Garcia-Vicente, Fiona J. Gilbert, Mark Halling-Brown, Demis Hassabis, Sunny Jansen, Alan Karthikesalingam, Christopher J. Kelly, Dominic King, Joseph R. Ledsam, David Melnick, Hormuz Mostofi, Lily Peng, Joshua Jay Reicher, Bernardino Romera-Paredes, Richard Sidebottom, Mustafa Suleyman, Daniel Tse, Kenneth C. Young, **Jeffrey De Fauw**** & Shravya Shetty**_  
 <sup>\* equal contribution <br/>
