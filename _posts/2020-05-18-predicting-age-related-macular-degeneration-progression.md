@@ -9,7 +9,7 @@ permalink: predicting-amd-progression
 We look at the predicting the progression of an eye to the sight-threatening form of AMD within 6 months. We demonstrate a deep learning system that is able to outperform five out of six experts on this task and importantly also overcomes the high interobserver variability from the experts.  
 [**Nature Medicine article**](https://www.nature.com/articles/s41591-020-0867-7){:target="_blank"}  
 [**Open-access link**](https://rdcu.be/b4fgc){:target="_blank"}  
-[**DeepMind blog**](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression){:target="_blank"}  
+[**DeepMind blog post**](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression){:target="_blank"}  
 
 {% include image.html img="/images/2020_nature_medicine_amd_progression/amd_progression_timeline.svg" title="Timeline overview of an example patient's progression to wet AMD together with the model's risk prediction." caption="Timeline overview of an example patient's progression to wet AMD together with the model's risk prediction."  url="/images/2020_nature_medicine_amd_progression/amd_progression_timeline.svg" %} 
 
