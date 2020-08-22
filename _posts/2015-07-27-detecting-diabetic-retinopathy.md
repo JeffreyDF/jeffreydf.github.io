@@ -138,7 +138,7 @@ to get one vector of predictions on which we can apply the ranking procedure fro
 
 The patients are always split into a training set (90%) and a validation set (10%) by stratified sampling based on the maximum label of the two eyes per patient.
 
-###Processing and augmenting
+### Processing and augmenting
 
 First of all, since the original images are fairly large (say, 3000x2000 pixels on average) and most contained a fairly significant black border, I started by downscaling all the images by a factor of five (without interpolation) and trying to remove most of these black borders. 
 
