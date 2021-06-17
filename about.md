@@ -7,9 +7,7 @@ I graduated as a mathematician, originally interested in algebraic geometric (se
 On the side, I am also interested in startups and investing.
 
 **Some other links**  
-[Full list of my publications](https://scholar.google.co.uk/citations?user=htBEHycAAAAJ){:target="_blank"}  
-[Twitter](https://twitter.com/JeffreyDeFauw){:target="_blank"}  
-
+[Full list of my publications](https://scholar.google.co.uk/citations?user=REB5aBEAAAAJ){:target="_blank"}  
 
 Reach out to me at: {my first name} + at + defauw.ai.
  
